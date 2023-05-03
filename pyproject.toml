@@ -1,0 +1,11 @@
+[build-system]
+requires = ["setuptools"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "mechanistic_interpretability"
+version = "0.0.1"
+dependencies = [
+    "transformer_lens @ git+https://github.com/neelnanda-io/TransformerLens.git",
+    "circuitsvis",
+]
