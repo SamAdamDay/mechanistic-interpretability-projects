@@ -8,4 +8,5 @@ version = "0.0.1"
 dependencies = [
     "transformer_lens @ git+https://github.com/neelnanda-io/TransformerLens.git",
     "circuitsvis",
+    "plotly",
 ]
