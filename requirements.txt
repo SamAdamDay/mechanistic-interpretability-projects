@@ -1,4 +1,5 @@
 git+https://github.com/neelnanda-io/TransformerLens.git
+git+https://github.com/neelnanda-io/PySvelte.git
 circuitsvis
 plotly
 nbformat
