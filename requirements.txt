@@ -3,3 +3,4 @@ git+https://github.com/neelnanda-io/PySvelte.git
 circuitsvis
 plotly
 nbformat
+scikit-learn
