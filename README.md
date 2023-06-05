@@ -18,3 +18,4 @@ This is [Problem 2.13](https://www.alignmentforum.org/s/yivyHaCAmMJ3CqSyj/p/XNjR
 Some notebooks messing around with models.
 - [Reducing transformer embedding dimensionality](/playground/token-embed-dim.ipynb)
 - [Regressing on transformer embeddings](/playground/token-embed-regression.ipynb)
+- [Doing SVD on positional embeddings](/playground/pos-embed-svd.ipynb)
