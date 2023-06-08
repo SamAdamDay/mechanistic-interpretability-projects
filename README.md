@@ -19,3 +19,4 @@ Some notebooks messing around with models.
 - [Reducing transformer embedding dimensionality](/playground/token-embed-dim.ipynb)
 - [Regressing on transformer embeddings](/playground/token-embed-regression.ipynb)
 - [Doing SVD on positional embeddings](/playground/pos-embed-svd.ipynb)
+- [Playing around with the 'Toy Models of Superposition' paper](/playground/toy-models.ipynb)
